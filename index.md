@@ -1,6 +1,6 @@
 # Connor Bechler
 
-![]()
+![Photo of Connor standing on top of cliff in baseball hat](https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/resources/cb_photo.jpg)
 
 PhD student in Linguistics at Michigan State University
 
@@ -11,15 +11,15 @@ My current research focuses on applying speech and language technology to sociol
 
 ## Research
 
-Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume. Submitted to _American Dialect Society 2025 Annual Meeting_. Philadelphia, Pennsylvania. January 2025. [Link to abstract]()
+Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume. Submitted to _American Dialect Society 2025 Annual Meeting_. Philadelphia, Pennsylvania. January 2025. [Link to abstract](https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/research/ADS%202025%20Abstract.pdf)
 
-Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection. Submitted to _New Ways of Analyzing Variation (NWAV) 52_. Miami, Florida. November 2024. [Link to abstract]()
+Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection. Submitted to _New Ways of Analyzing Variation (NWAV) 52_. Miami, Florida. November 2024. [Link to abstract](https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/research/NWAV%2052%20Abstract.pdf)
 
-Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi (Project Launch Poster). _New Ways of Analyzing Variation (NWAV) 51_. Queens, New York. October 2023. [Link to poster]()
+Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi (Project Launch Poster). _New Ways of Analyzing Variation (NWAV) 51_. Queens, New York. October 2023. [Link to poster](https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/research/NWAV_51_Poster_Final.pdf)
 
-Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to ASR in a Low-Resource Setting. _Central Kentucky Linguistics Conference_. Lexington, Kentucky. April 2023. [Link to thesis]()
+Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to ASR in a Low-Resource Setting. _Central Kentucky Linguistics Conference_. Lexington, Kentucky. April 2023. [Link to thesis](https://uknowledge.uky.edu/ltt_etds/51/)
 
-Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework (Poster with Nour Kayali). _15th Annual Meeting of the Illinois Language and Linguistics Society_. Champaign-Urbana, Illinois. March 2023. [Link to poster]()
+Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework (Poster with Nour Kayali). _15th Annual Meeting of the Illinois Language and Linguistics Society_. Champaign-Urbana, Illinois. March 2023. [Link to poster](https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/research/ills_poster-2023.pdf)
 
 ## Software/Tools
 
