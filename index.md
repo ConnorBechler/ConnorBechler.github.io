@@ -1,6 +1,8 @@
 # Connor Bechler
-## About Me
+
 <img src="https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in baseball hat" width="300"/>
+
+## About Me
 
 PhD student in Linguistics at Michigan State University</p>
 
@@ -24,4 +26,4 @@ Investigating Historical Language Ideologies in Multilingual Contexts: A Novel S
 
 [DiSpeechEval](https://github.com/ConnorBechler/dispeecheval): tool for quick summarization of speech quantity and quality using voice activity detection.
 
-[wav2vec2fasr](https://github.com/ConnorBechler/wav2vec2fasr-repo): package for (hopefully) easier finetuning of wav2vec2 models for low-resource automatic speech recognition and forced alignment.
+[wav2vec2fasr](https://github.com/ConnorBechler/wav2vec2fasr-repo): collection of resources and interface for finetuning wav2vec2 models for low-resource automatic speech recognition and forced alignment.
