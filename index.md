@@ -4,7 +4,7 @@
 
 ## About Me
 
-PhD student in Linguistics at Michigan State University</p>
+PhD student in Linguistics at Michigan State University.
 
 email: bechler4[at]msu[dot]edu
 
