@@ -1,6 +1,6 @@
 # Connor Bechler
 
-<img src="./resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in baseball hat" width="300"/>
+<img src="/resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in baseball hat" width="300"/>
 
 ## About Me
 
