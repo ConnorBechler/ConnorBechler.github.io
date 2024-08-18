@@ -1,12 +1,11 @@
 # Connor Bechler
+## About Me
+<img src="https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in baseball hat" width="300"/>
 
-![Photo of Connor standing on top of cliff in baseball hat](https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/resources/cb_photo.jpg)
-
-PhD student in Linguistics at Michigan State University
+PhD student in Linguistics at Michigan State University</p>
 
 email: bechler4[at]msu[dot]edu
 
-## About Me
 My current research focuses on applying speech and language technology to sociolinguistics, language documentation, and corpus linguistics.
 
 ## Research
