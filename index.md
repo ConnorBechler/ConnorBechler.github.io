@@ -1,8 +1,8 @@
 # Connor Bechler
 
-[About Me](#AboutMe) &nbsp;&nbsp;&nbsp;&nbsp;[Research](#Research) &nbsp;&nbsp;&nbsp;&nbsp; [Software/Tools](#Tools)
+#### [About Me](#AboutMe) &nbsp;&nbsp;&nbsp;&nbsp;[Research](#Research) &nbsp;&nbsp;&nbsp;&nbsp; [Software/Tools](#Tools)
 
-#### bechler4[at]msu[dot]edu&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/ConnorBechler)
+bechler4[at]msu[dot]edu &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/ConnorBechler)
 
 <img src="resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
 
