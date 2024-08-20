@@ -3,7 +3,7 @@
 ## Navigation
 1. [About Me](#AboutMe)
 2. [Research](#Research)
-3. [Tools](#Tools)
+3. [Software/Tools](#Tools)
 
 <img src="/resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
 
@@ -16,6 +16,8 @@ I am a PhD student in Linguistics at Michigan State University.
 My current research focuses on applying speech and language technology to sociolinguistics, language documentation, and corpus linguistics.
 
 email: bechler4[at]msu[dot]edu
+
+[GitHub Profile](https://github.com/ConnorBechler)
 
 <a id='Research'></a>
 
@@ -35,8 +37,8 @@ Investigating Historical Language Ideologies in Multilingual Contexts: A Novel S
 
 ## Software/Tools
 
-[The MI Diaries Research Framework](https://github.com/midiaries/datahub): I did not create this, but I bug-tested and documented a portion of it. An excellent suite of tools for creating, navigatin, and annotating audio corpora. 
+[The MI Diaries Research Framework](https://github.com/midiaries/datahub): I did not create this, but I bug-tested and documented a portion of it. An excellent suite of tools for creating, navigating, and annotating audio corpora. 
 
-[DiSpeechEval](https://github.com/ConnorBechler/dispeecheval): A python tool I am developing for quick summarization of speech quantity and quality using voice activity detection.
+[DiSpeechEval](https://github.com/ConnorBechler/dispeecheval): A python tool I am developing for the quick summarization of speech quantity and quality using voice activity detection.
 
 [wav2vec2fasr](https://github.com/ConnorBechler/wav2vec2fasr-repo): A collection of resources and python interface I am developing for finetuning wav2vec2 models for low-resource automatic speech recognition and forced alignment.
