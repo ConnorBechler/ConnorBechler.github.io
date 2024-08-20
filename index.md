@@ -1,6 +1,6 @@
 # Connor Bechler
 
-#### [About Me](#AboutMe) &nbsp;&nbsp;&nbsp;&nbsp;[Research](#Research) &nbsp;&nbsp;&nbsp;&nbsp; [Software/Tools](#Tools)
+#### [About Me](#AboutMe) &nbsp;&nbsp;&nbsp;&nbsp;[Research](#Research) &nbsp;&nbsp;&nbsp;&nbsp; [Software/Tools](#Tools) &nbsp;&nbsp;&nbsp;&nbsp; [Non-Academic Interests](#Hobbies)
 
 bechler4[at]msu[dot]edu &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/ConnorBechler)
 
@@ -10,9 +10,11 @@ bechler4[at]msu[dot]edu &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/Con
 
 ## About Me
 
-I am a PhD student in Linguistics at Michigan State University.
+I am currently a PhD student in Linguistics at Michigan State University, where I am a member of the [MI Diaries Project](https://mi-diaries.org).
 
 My current research focuses on applying speech and language technology to sociolinguistics, language documentation, and corpus linguistics.
+
+I graduated with a BA in Linguistics, Literature, and Chinese from Calvin University in 2020, and an MA in Linguistic Theory and Typology from the University of Kentucky in 2023.
 
 <a id='Research'></a>
 
@@ -37,3 +39,11 @@ Kayali, N. & Bechler, C. (2023, March 3-4). _Investigating Historical Language I
 [DiSpeechEval](https://github.com/ConnorBechler/dispeecheval): A python tool I am developing for the quick summarization of speech quantity and quality using voice activity detection.
 
 [wav2vec2fasr](https://github.com/ConnorBechler/wav2vec2fasr-repo): A collection of resources and python interface I am developing for finetuning wav2vec2 models for low-resource automatic speech recognition and forced alignment.
+
+<a id='Hobbies'></a>
+
+## Non-Academic Interests
+
+I greatly enjoy modern fencing, primarily epee. I have dabbled in game design. Hiking and backpacking provide me with a great deal of joy. While I am not always the fastest chef, I find cooking to be both soothing and satisfying. I enjoy both tea and coffee without particular partisanship.
+
+I am always in the market for new books, recipes, and hiking spots! If you are feeling generous, send me your recommendations via email.
