@@ -1,9 +1,8 @@
 # Connor Bechler
 
-## Navigation
-1. [About Me](#AboutMe)
-2. [Research](#Research)
-3. [Software/Tools](#Tools)
+[About Me](#AboutMe) &nbsp;&nbsp;&nbsp;&nbsp;[Research](#Research) &nbsp;&nbsp;&nbsp;&nbsp; [Software/Tools](#Tools)
+
+#### bechler4[at]msu[dot]edu&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/ConnorBechler)
 
 <img src="resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
 
@@ -15,23 +14,19 @@ I am a PhD student in Linguistics at Michigan State University.
 
 My current research focuses on applying speech and language technology to sociolinguistics, language documentation, and corpus linguistics.
 
-email: bechler4[at]msu[dot]edu
-
-[GitHub Profile](https://github.com/ConnorBechler)
-
 <a id='Research'></a>
 
 ## Research
 
-Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume. Submitted to _American Dialect Society 2025 Annual Meeting_. Philadelphia, Pennsylvania. January 2025. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a>
+Bechler, C. (2024). _Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume_. \[Poster presentation abstract]. Submitted to the American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a>
 
-Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection. Submitted to _New Ways of Analyzing Variation (NWAV) 52_. Miami, Florida. November 2024. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF]</a>
+Bechler, C. (2024). _Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection_. [Conference presentation abstract]. Submitted to New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF]</a>
 
-Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi (Project Launch Poster). _New Ways of Analyzing Variation (NWAV) 51_. Queens, New York. October 2023. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a>
+Bechler, C. (2023, October 13-15). _Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi_ \[Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a>
 
-Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to ASR in a Low-Resource Setting. _Central Kentucky Linguistics Conference_. Lexington, Kentucky. April 2023. [[External Link to Thesis PDF]](https://uknowledge.uky.edu/ltt_etds/51/)
+Bechler, C. (2023). Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to Automatic Speech Recognition for Language Documentation. [[External Link to Thesis PDF]](https://uknowledge.uky.edu/ltt_etds/51/)
 
-Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework (Poster with Nour Kayali). _15th Annual Meeting of the Illinois Language and Linguistics Society_. Champaign-Urbana, Illinois. March 2023. <a href="https://ConnorBechler.github.io/research/ills_poster-2023.pdf" target="_blank">[Poster PDF]</a>
+Kayali, N. & Bechler, C. (2023, March 3-4). _Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework_ \[Poster presentation]. 15th Annual Meeting of the Illinois Language and Linguistics Society, Champaign-Urbana, Illinois, United States. <a href="https://ConnorBechler.github.io/research/ills_poster-2023.pdf" target="_blank">[Poster PDF]</a>
 
 <a id='Tools'></a>
 
