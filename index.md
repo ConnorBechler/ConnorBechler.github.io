@@ -7,7 +7,9 @@
 
 <img src="/resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
 
-## About Me [](#){name=AboutMe}
+<a id='AboutMe'></a>
+
+## About Me
 
 I am a PhD student in Linguistics at Michigan State University.
 
@@ -15,7 +17,9 @@ My current research focuses on applying speech and language technology to sociol
 
 email: bechler4[at]msu[dot]edu
 
-## Research [](#){name=Research}
+<a id='Research'></a>
+
+## Research
 
 Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume. Submitted to _American Dialect Society 2025 Annual Meeting_. Philadelphia, Pennsylvania. January 2025. [Link to abstract](https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/research/ADS%202025%20Abstract.pdf)
 
@@ -27,7 +31,9 @@ Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges t
 
 Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework (Poster with Nour Kayali). _15th Annual Meeting of the Illinois Language and Linguistics Society_. Champaign-Urbana, Illinois. March 2023. [Link to poster](https://github.com/ConnorBechler/ConnorBechler.github.io/blob/main/research/ills_poster-2023.pdf)
 
-## Software/Tools [](#){name=Tools}
+<a id='Tools'></a>
+
+## Software/Tools
 
 [The MI Diaries Research Framework](https://github.com/midiaries/datahub): I did not create this tool, but I bug-tested and documented a portion of it. An excellent suite of tools for gcreating, navigatin, and annotating audio corpora. 
 
