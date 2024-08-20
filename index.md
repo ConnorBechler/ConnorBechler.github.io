@@ -1,23 +1,9 @@
 # Connor Bechler
 
-<table>
-
-<th style="vertical-align:top">
-
 ## Navigation
-
 1. [About Me](#AboutMe)
 2. [Research](#Research)
 3. [Tools](#Tools)
-
-## Contact/Links
-
-email: bechler4[at]msu[dot]edu
-[GitHub Page](https://github.com/ConnorBechler)
-
-</th>
-
-<th>
 
 <img src="/resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
 
@@ -28,6 +14,8 @@ email: bechler4[at]msu[dot]edu
 I am a PhD student in Linguistics at Michigan State University.
 
 My current research focuses on applying speech and language technology to sociolinguistics, language documentation, and corpus linguistics.
+
+email: bechler4[at]msu[dot]edu
 
 <a id='Research'></a>
 
@@ -52,7 +40,3 @@ Investigating Historical Language Ideologies in Multilingual Contexts: A Novel S
 [DiSpeechEval](https://github.com/ConnorBechler/dispeecheval): python tool I developed for quick summarization of speech quantity and quality using voice activity detection.
 
 [wav2vec2fasr](https://github.com/ConnorBechler/wav2vec2fasr-repo): collection of resources and python interface for finetuning wav2vec2 models I've created for low-resource automatic speech recognition and forced alignment.
-
-</th>
-
-</table>
