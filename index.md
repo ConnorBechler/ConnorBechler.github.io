@@ -1,7 +1,4 @@
-<head>
 <link rel="stylesheet" href="style.css">
-</head>
-<body>
 <div class="sidebar">
 <div>
 
@@ -67,4 +64,3 @@ I greatly enjoy modern fencing, primarily epee. I have dabbled in game design. H
 I am always in the market for new books, recipes, and hiking spots! If you are feeling generous, send me your recommendations via email.
 
 </div>
-</body>
