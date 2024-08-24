@@ -1,12 +1,30 @@
-# Connor Bechler
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="sidebar">
+<div>
 
-#### [About Me](#AboutMe) &nbsp;&nbsp;&nbsp;&nbsp;[Research](#Research) &nbsp;&nbsp;&nbsp;&nbsp; [Software/Tools](#Tools) &nbsp;&nbsp;&nbsp;&nbsp; [Non-Academic Interests](#Hobbies)
+#### [About Me](#AboutMe) 
+#### [Research](#Research) 
+#### [Software/Tools](#Tools) 
+#### [Non-Academic Interests](#Hobbies)
 
-bechler4[at]msu[dot]edu &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/ConnorBechler)
+**email:** bechler4[at]msu[dot]edu
 
-<img src="resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
+**github:** https://github.com/ConnorBechler
+
+</div>
+
+</div>
+
+<div class="body-text">
 
 <a id='AboutMe'></a>
+
+# Connor Bechler
+
+<img src="resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
 
 ## About Me
 
@@ -47,3 +65,5 @@ Kayali, N. & Bechler, C. (2023, March 3-4). _Investigating Historical Language I
 I greatly enjoy modern fencing, primarily epee. I have dabbled in game design. Hiking and backpacking provide me with a great deal of joy. While I am not always the fastest chef, I find cooking to be both soothing and satisfying. I enjoy both tea and coffee without particular partisanship.
 
 I am always in the market for new books, recipes, and hiking spots! If you are feeling generous, send me your recommendations via email.
+
+</div>

@@ -1,0 +1,16 @@
+.sidebar {
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    margin-top: 40px;
+    /*padding-top: 40px;*/
+    top: 0;
+  }
+  .sidebar div {
+    padding: 8px;
+    display: block;
+    text-wrap: wrap;
+  }
+  .body-text {
+    margin-left: 200px;
+  }
