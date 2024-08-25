@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
 <link rel="stylesheet" href="style.css">
 </head>
@@ -24,7 +22,7 @@
 
 <h2>About Me</h2>
 
-<p>I am currently a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project.</a></p>
+<p>I am currently a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>. </p>
 <p>My current research focuses on applying speech and language technology to sociolinguistics, language documentation, and corpus linguistics.</p>
 <p>I graduated with a BA in Linguistics, Literature, and Chinese from Calvin University in 2020, and an MA in Linguistic Theory and Typology from the University of Kentucky in 2023.</p>
 
