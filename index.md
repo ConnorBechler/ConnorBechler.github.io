@@ -1,4 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
 <link rel="stylesheet" href="style.css">
+</head>
+<body>
 <div class="sidebar">
 <div>
 
@@ -55,3 +60,5 @@
 <p>I am always in the market for new books, recipes, and hiking spots! If you are feeling generous, send me your recommendations via email.</p>
 
 </div>
+</body>
+</html>
