@@ -1,10 +1,11 @@
 .sidebar {
     height: 100%;
-    width: 150px;
+    width: 200px;
     position: fixed;
     margin-top: 60px;
     /*padding-top: 40px;*/
     top: 0;
+    font-family: "Tahoma";
   }
   .sidebar div {
     padding: 8px;
@@ -13,4 +14,7 @@
   }
   .body-text {
     margin-left: 200px;
+    margin-right: 10%;
+    text-wrap: wrap;
+    font-family: "Tahoma"
   }
