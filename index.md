@@ -17,7 +17,8 @@
 
 <div class="body-text">
 
-<h1 id='AboutMe'>Connor Bechler</h1>
+<a id='AboutMe'></a>
+
 <img src="resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
 
 <h2>About Me</h2>
