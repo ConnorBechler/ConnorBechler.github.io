@@ -1,12 +1,3 @@
----
-title: 
-summary: Connor Bechler's academic website
-authors:
-    - Connor Bechler
-some_url: https://connorbechler.github.io
----
-
-
 <head>
 <link rel="stylesheet" href="style.css">
 </head>
