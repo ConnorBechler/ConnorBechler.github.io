@@ -1,5 +1,13 @@
+---
+title: 
+summary: Connor Bechler's academic website
+authors:
+    - Connor Bechler
+some_url: https://connorbechler.github.io
+---
+
+
 <head>
-<title> </title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
