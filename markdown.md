@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title></title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,7 +13,7 @@
 <h4><a href="#Tools">Software/Tools</a></h4>
 <h4><a href="#Hobbies">Non-Academic Interests</a></h4>
 
-<p><b>email:</b> bechler4[at]msu [dot]edu</p>
+<p><b>email:</b> bechler4[at]msu[dot]edu</p>
 
 <b>github:</b><a href=https://github.com/ConnorBechler> https://github.com/ ConnorBechler</a>
 
@@ -57,8 +58,6 @@
 <p>I greatly enjoy modern fencing, primarily epee. I have dabbled in game design. Hiking and backpacking provide me with a great deal of joy. While I am not always the fastest chef, I find cooking to be both soothing and satisfying. I enjoy both tea and coffee without particular partisanship.</p>
 
 <p>I am always in the market for new books, recipes, and hiking spots! If you are feeling generous, send me your recommendations via email.</p>
-
-<a href="markdown.md">Markdown Version</a>
 
 </div>
 </body>
