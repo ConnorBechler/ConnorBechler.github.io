@@ -10,9 +10,9 @@
 <h4><a href="#Tools">Software/Tools</a></h4>
 <h4><a href="#Hobbies">Non-Academic Interests</a></h4>
 
-<p><b>email:</b> bechler4[at]msu[dot]edu</p>
+**email:** bechler4[at]msu[dot]edu
 
-<b>github:</b><a href=https://github.com/ConnorBechler> https://github.com/ ConnorBechler</a>
+**github:** [https://github.com/ ConnorBechler](https://github.com/ConnorBechler)
 
 </div>
 </div>
