@@ -12,9 +12,7 @@
 
 <p><b>email: </b>bechler4[at]msu[dot]edu</p>
 
-**github:** [https://github.com/ ConnorBechler](https://github.com/ConnorBechler)
-
-<p><b>github: </b><a href=https://github.com/ConnorBechler>https://github.com/ ConnorBechler</a></p>
+<p><b>github: </b><a href="https://github.com/ConnorBechler">https://github.com/ ConnorBechler</a></p>
 
 </div>
 </div>
