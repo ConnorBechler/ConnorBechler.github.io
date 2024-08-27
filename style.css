@@ -5,7 +5,8 @@
     height: 100%;
     width: 200px;
     position: fixed;
-    margin-top: 80px;
+    margin-top: 60px;
+    /*padding-top: 40px;*/
     top: 0;
   }
   .sidebar div {
