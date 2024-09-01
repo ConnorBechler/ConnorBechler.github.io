@@ -41,11 +41,11 @@
 
 <p>Sneller, B., Werner, R., Rechsteiner, J., & Bechler, C. (2024). MiDRF Admin Portal. <a href="https://zenodo.org/doi/10.5281/zenodo.13617857">https://zenodo.org/doi/10.5281/zenodo.13617857</a></p>
 
-Bechler, C. (2023, October 13-15). _Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi_ [Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a>
+<p>Bechler, C. (2023, October 13-15). <i>Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi</i> [Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a></p>
 
-Bechler, C. (2023). Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to Automatic Speech Recognition for Language Documentation. <a href="https://uknowledge.uky.edu/ltt_etds/51/">[External Link to Thesis PDF]</a>
+<p>Bechler, C. (2023). Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to Automatic Speech Recognition for Language Documentation. <a href="https://uknowledge.uky.edu/ltt_etds/51/">[External Link to Thesis PDF]</a></p>
 
-Kayali, N. & Bechler, C. (2023, March 3-4). _Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework_ [Poster presentation]. 15th Annual Meeting of the Illinois Language and Linguistics Society, Champaign-Urbana, Illinois, United States. <a href="https://ConnorBechler.github.io/research/ills_poster-2023.pdf" target="_blank">[Poster PDF]</a></p>
+<p>Kayali, N. & Bechler, C. (2023, March 3-4). <i>Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework</i> [Poster presentation]. 15th Annual Meeting of the Illinois Language and Linguistics Society, Champaign-Urbana, Illinois, United States. <a href="https://ConnorBechler.github.io/research/ills_poster-2023.pdf" target="_blank">[Poster PDF]</a></p>
 
 <h2 id='Tools'>Software/Tools</h2>
 
