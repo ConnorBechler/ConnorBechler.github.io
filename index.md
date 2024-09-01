@@ -10,9 +10,9 @@
 <h4><a href="#Tools">Software/Tools</a></h4>
 <h4><a href="#Hobbies">Non-Academic Interests</a></h4>
 
-<p><b>email: </b>bechler4[at]msu[dot]edu</p>
+<p><b>email: </b>bechler4[at]msu [dot]edu</p>
 
-<p><b>github: </b><a href="https://github.com/ConnorBechler">https://github.com/ ConnorBechler</a></p>
+<p><b>github: </b><a href="https://github.com/ConnorBechler">https:// github.com/ ConnorBechler</a></p>
 
 </div>
 </div>
@@ -32,29 +32,31 @@
 
 <h2 id='Research'>Research</h2>
 
-<p>Bechler, C. (2024). <i>Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume</i>. [Poster presentation abstract]. Submitted to the American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a></p>
+Bechler, C. (2024). _Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume_. [Poster presentation abstract]. Submitted to the American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a>
 
-<p>Bechler, C. (2024). <i>Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection</i>. [Conference presentation abstract]. Submitted to New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF]</a></p>
+Bechler, C. (2024). _Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection_. [Conference presentation abstract]. Submitted to New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF]</a>
 
-<p>Bechler, C. (2023, October 13-15). <i>Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi</i> [Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a></p>
+Sneller, Betsy, Russ Werner, Jack Rechsteiner, and Connor Bechler. 2024. MiDRF Admin Portal. [https://zenodo.org/doi/10.5281/zenodo.13617857]("https://zenodo.org/doi/10.5281/zenodo.13617857")
 
-<p>Bechler, C. (2023). Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to Automatic Speech Recognition for Language Documentation. <a href="https://uknowledge.uky.edu/ltt_etds/51/">[External Link to Thesis PDF]</a></p>
+Bechler, C. (2023, October 13-15). _Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi_ [Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a>
 
-<p>Kayali, N. & Bechler, C. (2023, March 3-4). <i>Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework</i> [Poster presentation]. 15th Annual Meeting of the Illinois Language and Linguistics Society, Champaign-Urbana, Illinois, United States. <a href="https://ConnorBechler.github.io/research/ills_poster-2023.pdf" target="_blank">[Poster PDF]</a></p>
+Bechler, C. (2023). Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to Automatic Speech Recognition for Language Documentation. <a href="https://uknowledge.uky.edu/ltt_etds/51/">[External Link to Thesis PDF]</a>
+
+Kayali, N. & Bechler, C. (2023, March 3-4). _Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework_ [Poster presentation]. 15th Annual Meeting of the Illinois Language and Linguistics Society, Champaign-Urbana, Illinois, United States. <a href="https://ConnorBechler.github.io/research/ills_poster-2023.pdf" target="_blank">[Poster PDF]</a></p>
 
 <h2 id='Tools'>Software/Tools</h2>
 
-<p><a href="https://github.com/midiaries/datahub">The MI Diaries Research Framework</a>: I did not create this, but I bug-tested and documented a portion of it. An excellent suite of tools for creating, navigating, and annotating audio corpora.</p>
+[The MI Diaries Research Framework]("https://github.com/midiaries/datahub"): A suite of tools originally developed for the MI Diaries project for collaboratively creating, navigating, and annotating audio corpora. I contributed to the documentation and bug-testing of the suite.
 
-<p><a href="https://github.com/ConnorBechler/dispeecheval">DiSpeechEval</a>: A python tool I am developing for the quick summarization of speech quantity and quality using voice activity detection.</p>
+[DiSpeechEval]("https://github.com/ConnorBechler/dispeecheval"): A python tool I am developing for the quick summarization of speech quantity and quality using voice activity detection.
 
-<p><a href="https://github.com/ConnorBechler/wav2vec2fasr-repo">wav2vec2fasr</a>: A collection of resources and python interface I am developing for finetuning wav2vec2 models for low-resource automatic speech recognition and forced alignment.</p>
+[wav2vec2fasr]("https://github.com/ConnorBechler/wav2vec2fasr-repo"): A collection of resources and python interface I am developing for finetuning wav2vec2 models for low-resource automatic speech recognition and forced alignment.
 
 <h2 id='Hobbies'>Non-Academic Interests</h2>
 
-<p>I greatly enjoy modern fencing, primarily epee. I have dabbled in game design. Hiking and backpacking provide me with a great deal of joy. While I am not always the fastest chef, I find cooking to be both soothing and satisfying. I enjoy both tea and coffee without particular partisanship.</p>
+I greatly enjoy modern fencing, primarily epee. I have dabbled in game design. Hiking and backpacking provide me with a great deal of joy. While I am not always the fastest chef, I find cooking to be both soothing and satisfying. I enjoy both tea and coffee without particular partisanship.
 
-<p>I am always in the market for new books, recipes, and hiking spots! If you are feeling generous, send me your recommendations via email.</p>
+I am always in the market for new books, recipes, and hiking spots! If you are feeling generous, send me your recommendations via email.
 
 </div>
 </body>

@@ -3,7 +3,7 @@
 }*/
 .sidebar {
     height: 100%;
-    width: 200px;
+    width: 150px;
     position: fixed;
     margin-top: 60px;
     /*padding-top: 40px;*/
@@ -15,7 +15,7 @@
     text-wrap: pretty;
   }
   .body-text {
-    margin-left: 200px;
+    margin-left: 150px;
     /*margin-right: 10%;*/
     text-wrap: pretty;
   }
