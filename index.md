@@ -25,13 +25,13 @@
 
 <h2>About Me</h2>
 
-<p>I am currently a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>. </p>
+<p>I am currently a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>, <a href="https://sociolab.msu.edu/">Sociolinguistics Lab</a>, and <a href="http://msuphongroup.weebly.com/">PhonoGroup</a>.</p>
 
 <p>Theoretically, I am particularly interested in socially motivated language change, language attitudes/ideologies, and the phonetics/phonology interface.</p>
 
-<p>Much of my current work revolves around developing computational tools to facilitate the collection, annotation, and analysis of speech corpora, particularly for sociolinguistics and language documentation.</p>
+<p>My current work revolves around developing computational tools to facilitate the collection, annotation, and analysis of speech corpora, particularly for sociolinguistics and language documentation.</p>
 
-<p>I graduated with a BA in Linguistics, Literature, and Chinese from Calvin University in 2020, and an MA in Linguistic Theory and Typology from the University of Kentucky in 2023.</p>
+<p>I graduated with an MA in Linguistic Theory and Typology from the University of Kentucky in 2023 and a BA in Linguistics, Literature, and Chinese from Calvin University in 2020.</p>
 
 <h2 id='Research'>Research</h2>
 
