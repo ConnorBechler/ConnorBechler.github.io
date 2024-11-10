@@ -35,13 +35,15 @@
 
 <h2 id='Research'>Research</h2>
 
-<p>Bechler, C. (2024). <i>Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume</i>. [Poster presentation abstract]. Submitted to the American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a></p>
+<p>Bechler, C. (2024, January 11). <i>Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume</i>. [Conference presentation]. Accepted to the American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a></p>
 
-<p>Bechler, C. (2024). <i>Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection</i>. [Conference presentation abstract]. Submitted to New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF]</a></p>
+<p>Bechler, C. (2024, November 9). <i>Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection</i>. [Conference presentation]. New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF] </a><a href="https://ConnorBechler.github.io/research/NWAV_Presentation_Final.pptx" target="_blank">[Slides]</a></p>
+
+<p>Bechler, C. (2024, November 1). <i>Developing Semi-Automatic Annotation for Documentation and Sociolinguistic Analysis​: Lessons from a Multi-Varietal Oral Art Collection​</i>. [Conference presentation]. Graduate Linguistics Expo at Michigan State (GLEAMS) 2024, East Lansing, Michigan, United States. 
 
 <p>Sneller, B., Werner, R., Rechsteiner, J., & Bechler, C. (2024). MiDRF Admin Portal. <a href="https://zenodo.org/doi/10.5281/zenodo.13617857">https://zenodo.org/doi/10.5281/zenodo.13617857</a></p>
 
-<p>Bechler, C. (2023, October 13-15). <i>Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi</i> [Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a></p>
+<p>Bechler, C. (2023, October 14). <i>Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi</i> [Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a></p>
 
 <p>Bechler, C. (2023). Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to Automatic Speech Recognition for Language Documentation. <a href="https://uknowledge.uky.edu/ltt_etds/51/">[External Link to Thesis PDF]</a></p>
 
@@ -57,9 +59,9 @@
 
 <h2 id='Hobbies'>Non-Academic Interests</h2>
 
-<p>I greatly enjoy modern fencing, primarily epee. I have dabbled in game design. Hiking and backpacking provide me with a great deal of joy. While I am not always the fastest chef, I find cooking to be both soothing and satisfying. I enjoy both tea and coffee without particular partisanship.</p>
+<p>In my free time, I enjoy reading (primarily fiction, although also essays and poetry), programming, epee fencing, hiking, backpacking, and cooking (although I am not a particularly fast cook).</p>
 
-<p>I am always in the market for new books, recipes, and hiking spots! If you are feeling generous, send me your recommendations via email.</p>
+<p>I am always in the market for new books, recipes, and hiking spots! If you feel generous, send me your recommendations via email!</p>
 
 </div>
 </body>
