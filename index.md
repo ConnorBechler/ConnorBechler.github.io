@@ -37,7 +37,7 @@
 
 <p>Bechler, C. (2024, January 11). <i>Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume</i>. [Conference presentation]. Accepted to the American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a></p>
 
-<p>Bechler, C. (2024, November 9). <i>Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection</i>. [Conference presentation]. New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF] </a><a href="https://ConnorBechler.github.io/research/NWAV_Presentation_Final.pptx" target="_blank">[Slides]</a></p>
+<p>Bechler, C. (2024, November 9). <i>Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection</i>. [Conference presentation]. New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF] </a><a href="https://ConnorBechler.github.io/research/NWAV 52_Presentation_Final.pptx" target="_blank">[Slides]</a></p>
 
 <p>Bechler, C. (2024, November 1). <i>Developing Semi-Automatic Annotation for Documentation and Sociolinguistic Analysis​: Lessons from a Multi-Varietal Oral Art Collection​</i>. [Conference presentation]. Graduate Linguistics Expo at Michigan State (GLEAMS) 2024, East Lansing, Michigan, United States. 
 
