@@ -39,7 +39,7 @@
 
 <p>Bechler, C. (2024, November 9). <i>Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection</i>. [Conference presentation]. New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF] </a><a href="https://ConnorBechler.github.io/research/NWAV 52_Presentation_Final.pptx" target="_blank">[Slides]</a></p>
 
-<p>Bechler, C. (2024, November 1). <i>Developing Semi-Automatic Annotation for Documentation and Sociolinguistic Analysis​: Lessons from a Multi-Varietal Oral Art Collection​</i>. [Conference presentation]. Graduate Linguistics Expo at Michigan State (GLEAMS) 2024, East Lansing, Michigan, United States. 
+<p>Bechler, C. (2024, November 1). <i>Developing Semi-Automatic Annotation for Documentation and Sociolinguistic Analysis​: Lessons from a Multi-Varietal Oral Art Collection​</i>. [Conference presentation]. Graduate Linguistics Expo at Michigan State (GLEAMS) 2024, East Lansing, Michigan, United States.</p>
 
 <p>Sneller, B., Werner, R., Rechsteiner, J., & Bechler, C. (2024). MiDRF Admin Portal. <a href="https://zenodo.org/doi/10.5281/zenodo.13617857">https://zenodo.org/doi/10.5281/zenodo.13617857</a></p>
 
