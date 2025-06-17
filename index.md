@@ -35,19 +35,19 @@
 
 <h2 id='Research'>Research</h2>
 
-<p>Bechler, C. (2025, January 11). <i>Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume</i>. [Conference presentation]. American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a> <a href="https://ConnorBechler.github.io/research/ADS 2025.pptx" target="_blank">[Slides]</a></p>
+<p><b>Bechler, C.</b> (2025, January 11). <i>Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume</i>. [Conference presentation]. American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a> <a href="https://ConnorBechler.github.io/research/ADS 2025.pptx" target="_blank">[Slides]</a></p>
 
-<p>Bechler, C. (2024, November 9). <i>Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection</i>. [Conference presentation]. New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF] </a><a href="https://ConnorBechler.github.io/research/NWAV 52_Presentation_Final.pptx" target="_blank">[Slides]</a></p>
+<p><b>Bechler, C.</b> (2024, November 9). <i>Evaluating wav2vec 2.0 Speech Recognition and Forced Alignment on a Multi-Varietal Language Documentation Collection</i>. [Conference presentation]. New Ways of Analyzing Variation (NWAV) 52, Miami, Florida, United States. <a href="https://ConnorBechler.github.io/research/NWAV 52 Abstract.pdf" target="_blank">[Abstract PDF] </a><a href="https://ConnorBechler.github.io/research/NWAV 52_Presentation_Final.pptx" target="_blank">[Slides]</a></p>
 
-<p>Bechler, C. (2024, November 1). <i>Developing Semi-Automatic Annotation for Documentation and Sociolinguistic Analysis​: Lessons from a Multi-Varietal Oral Art Collection​</i>. [Conference presentation]. Graduate Linguistics Expo at Michigan State (GLEAMS) 2024, East Lansing, Michigan, United States.</p>
+<p><b>Bechler, C.</b> (2024, November 1). <i>Developing Semi-Automatic Annotation for Documentation and Sociolinguistic Analysis​: Lessons from a Multi-Varietal Oral Art Collection​</i>. [Conference presentation]. Graduate Linguistics Expo at Michigan State (GLEAMS) 2024, East Lansing, Michigan, United States.</p>
 
-<p>Sneller, B., Werner, R., Rechsteiner, J., & Bechler, C. (2024). MiDRF Admin Portal. <a href="https://zenodo.org/doi/10.5281/zenodo.13617857">https://zenodo.org/doi/10.5281/zenodo.13617857</a></p>
+<p>Sneller, B., Werner, R., Rechsteiner, J., & <b>Bechler, C.</b> (2024). MiDRF Admin Portal. <a href="https://zenodo.org/doi/10.5281/zenodo.13617857">https://zenodo.org/doi/10.5281/zenodo.13617857</a></p>
 
-<p>Bechler, C. (2023, October 14). <i>Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi</i> [Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a></p>
+<p><b>Bechler, C.</b> (2023, October 14). <i>Automatic Transcription of Documentation Recordings for Sociolinguistic Analysis: Speech Recognition and Forced-Alignment for Northern Prinmi</i> [Poster presentation]. New Ways of Analyzing Variation (NWAV) 51, Queens, New York, United States. <a href="https://ConnorBechler.github.io/research/NWAV_51_Poster_Final.pdf" target="_blank">[Poster PDF]</a></p>
 
-<p>Bechler, C. (2023). Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to Automatic Speech Recognition for Language Documentation. <a href="https://uknowledge.uky.edu/ltt_etds/51/">[External Link to Thesis PDF]</a></p>
+<p><b>Bechler, C.</b> (2023). Automatic Transcription of Northern Prinmi Oral Art: Approaches and Challenges to Automatic Speech Recognition for Language Documentation. <a href="https://uknowledge.uky.edu/ltt_etds/51/">[External Link to Thesis PDF]</a></p>
 
-<p>Kayali, N. & Bechler, C. (2023, March 3-4). <i>Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework</i> [Poster presentation]. 15th Annual Meeting of the Illinois Language and Linguistics Society, Champaign-Urbana, Illinois, United States. <a href="https://ConnorBechler.github.io/research/ills_poster-2023.pdf" target="_blank">[Poster PDF]</a></p>
+<p>Kayali, N. & <b>Bechler, C.</b> (2023, March 3-4). <i>Investigating Historical Language Ideologies in Multilingual Contexts: A Novel Sociohistorical Framework</i> [Poster presentation]. 15th Annual Meeting of the Illinois Language and Linguistics Society, Champaign-Urbana, Illinois, United States. <a href="https://ConnorBechler.github.io/research/ills_poster-2023.pdf" target="_blank">[Poster PDF]</a></p>
 
 <h2 id='Tools'>Software/Tools</h2>
 
