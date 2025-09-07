@@ -25,7 +25,7 @@
 
 <h2>About Me</h2>
 
-<p>I am currently a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>, <a href="https://sociolab.msu.edu/">Sociolinguistics Lab</a>, and <a href="https://karthikdurvasula.gitlab.io/MSUPhonoGroupAndEMALab.html/">PhonoGroup</a>.</p>
+<p>I am currently a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>, <a href="https://sociolab.msu.edu/">Sociolinguistics Lab</a>, and <a href="https://karthikdurvasula.gitlab.io/MSUPhonoGroupAndEMALab/">PhonoGroup</a>.</p>
 
 <p>Theoretically, I am particularly interested in socially motivated language change, language attitudes/ideologies, and the phonetics/phonology interface.</p>
 
