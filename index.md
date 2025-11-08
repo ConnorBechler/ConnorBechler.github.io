@@ -35,7 +35,9 @@
 
 <h2 id='Research'>Research</h2>
 
-<p><b>Bechler, C.</b> (2025, October 10). <i>Two forms or two processes? Accounting for ambiguous tone spreading in Prinmi</i>. [Conference presentation]. Mid-Continental Phonetics and Phonology Conference (MidPhon) 30, Bloomington, Indiana, United States. <a href="https://ConnorBechler.github.io/research/CB-MidPhonAbstract-2025.pdf" target="_blank">[Abstract PDF]</a> <a href="https://ConnorBechler.github.io/research/MidPhon 2025 Poster for Print.pdf" target="_blank">[Poster PDF]</a></p>
+<p><b>Bechler, C.</b> (2025, November 6). <i>Modeling and Documenting Variation across Prinmi Varieties</i>. [Poster presentation]. New Ways of Analyzing Variation (NWAV) 53, Ann Arbor, Michigan, United States. <a href="https://ConnorBechler.github.io/research/NWAV 53 Abstract.pdf" target="_blank">[Abstract PDF]</a><a href="https://ConnorBechler.github.io/research/NWAV 53 2025 Poster.pdf" target="_blank">[Poster PDF]</a></p>
+
+<p><b>Bechler, C.</b> (2025, October 10). <i>Two forms or two processes? Accounting for ambiguous tone spreading in Prinmi</i>. [Poster presentation]. Mid-Continental Phonetics and Phonology Conference (MidPhon) 30, Bloomington, Indiana, United States. <a href="https://ConnorBechler.github.io/research/CB-MidPhonAbstract-2025.pdf" target="_blank">[Abstract PDF]</a> <a href="https://ConnorBechler.github.io/research/MidPhon 2025 Poster for Print.pdf" target="_blank">[Poster PDF]</a></p>
 
 <p><b>Bechler, C.</b> (2025, January 11). <i>Automatic Analysis of Audio Diary Speech Duration and Relative Speech Volume</i>. [Conference presentation]. American Dialect Society 2025 Annual Meeting, Philadelphia, Pennsylvania, United States. <a href="https://ConnorBechler.github.io/research/ADS 2025 Abstract.pdf" target="_blank">[Abstract PDF]</a> <a href="https://ConnorBechler.github.io/research/ADS 2025.pptx" target="_blank">[Slides]</a></p>
 
