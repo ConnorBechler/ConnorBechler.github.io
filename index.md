@@ -26,7 +26,7 @@
 
 <h2>About Me</h2>
 
-<p>I am a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>, <a href="https://sociolab.msu.edu/">Sociolinguistics Lab</a>, <a href="https://karthikdurvasula.gitlab.io/MSUPhonoGroupAndEMALab/">PhonoGroup</a>, and <a href="https://penndutchdialects.org/">PennDutch Dialects Project</a>.</p>
+<p>I am a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>, <a href="https://sociolab.msu.edu/">Sociolinguistics Lab</a>, <a href="https://karthikdurvasula.gitlab.io/MSUPhonoGroupAndEMALab.html">PhonoGroup</a>, and <a href="https://penndutchdialects.org/">PennDutch Dialects Project</a>.</p>
 
 <p> I am particularly interested in theories of language variation and change, language attitudes/ideologies, and the phonetics/phonology interface.</p>
 
@@ -36,7 +36,7 @@
 
 <h2 id='Research'>Research</h2>
 
-<p>Wang, X., Wagner, S., Lin, Y.H., & <b>Bechler, C.</b> (2026, April 29). Tone sandhi changes in Tianjin Mandarin and rural-to-urban migration. [Manuscript submitted for publication]. Department of Linguistics, Languages, and Cultures, Michigan State University.
+<p>Wang, X., Wagner, S., Lin, Y. H., & <b>Bechler, C.</b> (2026, April 29). Tone sandhi changes in Tianjin Mandarin and rural-to-urban migration. [Manuscript submitted for publication]. Department of Linguistics, Languages, and Cultures, Michigan State University.</p>
 
 <p><b>Bechler, C.</b> (2025, November 6). <i>Modeling and Documenting Variation across Prinmi Varieties</i>. [Poster presentation]. New Ways of Analyzing Variation (NWAV) 53, Ann Arbor, Michigan, United States. <a href="https://ConnorBechler.github.io/research/NWAV 53 Abstract.pdf" target="_blank">[Abstract PDF]</a><a href="https://ConnorBechler.github.io/research/NWAV 53 2025 Poster.pdf" target="_blank">[Poster PDF]</a></p>
 
