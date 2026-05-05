@@ -21,19 +21,22 @@
 
 <h1 id='AboutMe'>Connor Bechler</h1>
 
-<img src="resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>
+<!--<img src="resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>-->
+<img src="resources/connor_kayaking.jpg" alt="Photo of Connor in a kayak on a lake with trees in the distance" width="300"/>
 
 <h2>About Me</h2>
 
-<p>I am a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>, <a href="https://sociolab.msu.edu/">Sociolinguistics Lab</a>, and <a href="https://karthikdurvasula.gitlab.io/MSUPhonoGroupAndEMALab/">PhonoGroup</a>.</p>
+<p>I am a PhD student in Linguistics at Michigan State University, where I am a member of the <a href="https://mi-diaries.org">MI Diaries Project</a>, <a href="https://sociolab.msu.edu/">Sociolinguistics Lab</a>, <a href="https://karthikdurvasula.gitlab.io/MSUPhonoGroupAndEMALab/">PhonoGroup</a>, and <a href="https://penndutchdialects.org/">PennDutch Dialects Project</a>.</p>
 
 <p> I am particularly interested in theories of language variation and change, language attitudes/ideologies, and the phonetics/phonology interface.</p>
 
-<p>My current work revolves around developing computational tools to facilitate the collection, annotation, and analysis of speech corpora, particularly for sociolinguistics and language documentation.</p>
+<p>My current work has two main threads: (I) developing and employing computational tools to facilitate the collection, annotation, and analysis of speech corpora, particularly for sociolinguistics and language documentation, and (II) exploring and testing linguistic theories with formal models.</p>
 
 <p>I graduated with an MA in Linguistic Theory and Typology from the University of Kentucky in 2023 and a BA in Linguistics, Literature, and Chinese from Calvin University in 2020.</p>
 
 <h2 id='Research'>Research</h2>
+
+<p>Wang, X., Wagner, S., Lin, Y.H., & <b>Bechler, C.</b> (2026, April 29). Tone sandhi changes in Tianjin Mandarin and rural-to-urban migration. [Manuscript submitted for publication]. Department of Linguistics, Languages, and Cultures, Michigan State University.
 
 <p><b>Bechler, C.</b> (2025, November 6). <i>Modeling and Documenting Variation across Prinmi Varieties</i>. [Poster presentation]. New Ways of Analyzing Variation (NWAV) 53, Ann Arbor, Michigan, United States. <a href="https://ConnorBechler.github.io/research/NWAV 53 Abstract.pdf" target="_blank">[Abstract PDF]</a><a href="https://ConnorBechler.github.io/research/NWAV 53 2025 Poster.pdf" target="_blank">[Poster PDF]</a></p>
 
@@ -64,6 +67,8 @@
 <h2 id='Hobbies'>Non-Academic Interests</h2>
 
 <p>In my free time, I enjoy reading (primarily fiction, although also essays and poetry), programming, epee fencing, hiking, backpacking, tea, and cooking (although I am not a particularly fast cook).</p>
+
+<p>In 2025, I took up Shape Note singing, which has been a particular delight.</p>
 
 <p>I am always in the market for new books, recipes, and hiking spots! If you feel generous, send me your recommendations via email!</p>
 
