@@ -14,6 +14,8 @@
 
 <p><b>github: </b><a href="https://github.com/ConnorBechler">https:// github.com/ ConnorBechler</a></p>
 
+<p><b>my</b> <a href="https://ConnorBechler.github.io/resources/Bechler CV 2026.pdf">CV [PDF]</a></p>
+
 </div>
 </div>
 
@@ -23,6 +25,7 @@
 
 <!--<img src="resources/cb_photo.jpg" alt="Photo of Connor standing on top of cliff in a baseball cap" width="300"/>-->
 <img src="resources/connor_kayaking.jpg" alt="Photo of Connor in a kayak on a lake with trees in the distance" width="300"/>
+<img src="resources/connor_and_pc.jpg" alt="Photo of Connor working with collaborator in wooden room" width="300"/>
 
 <h2>About Me</h2>
 
