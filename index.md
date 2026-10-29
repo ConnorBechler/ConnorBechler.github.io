@@ -41,7 +41,7 @@
 
 <p>Wang, X., Wagner, S., Lin, Y. H., & <b>Bechler, C.</b> (2026, April 29). Tone sandhi changes in Tianjin Mandarin and rural-to-urban migration. [Manuscript submitted for publication]. Department of Linguistics, Languages, and Cultures, Michigan State University.</p>
 
-<p><b>Bechler, C.</b> (2027, January 6-9). <i>Testing the Competing Grammar Theory of Vowel Mergers</i>. [Conference presentation]. Linguistic Society of America (LSA) Annual Meeting, San Francisco, California, United States. <a href="https://ConnorBechler.github.io/research/LSA_2027_abstract.pdf" target="_blank">[Abstract PDF]</a></p>
+<p><b>Bechler, C.</b> (2027, January 6-9). <i>Testing the Competing Grammar Theory of Vowel Mergers</i>. [Conference presentation]. Linguistic Society of America (LSA) Annual Meeting, San Francisco, California, United States. <a href="https://ConnorBechler.github.io/research/LSA_2027_Abstract.pdf" target="_blank">[Abstract PDF]</a></p>
 
 <p><b>Bechler, C.</b> (2026, October 22). <i>UHM in Michigan English: Variation as a Lens on the Grammar</i>. [Conference presentation]. New Ways of Analyzing Variation (NWAV) 54, Montreal, Quebec, Canada. <a href="https://ConnorBechler.github.io/research/NWAV_54_Abstract.pdf" target="_blank">[Abstract PDF]</a> <a href="https://ConnorBechler.github.io/research/ID 243 Bechler.pptx" target="_blank">[Slides]</a></p>
 
